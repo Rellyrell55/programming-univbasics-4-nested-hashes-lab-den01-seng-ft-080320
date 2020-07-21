@@ -86,8 +86,6 @@ programmer_hash.push {:yukihiro_matsumoto => {
                         :languages => ["LISP","C"]
   }
 }
-
-return programmer_hash
 end
 
 def changing_alan
