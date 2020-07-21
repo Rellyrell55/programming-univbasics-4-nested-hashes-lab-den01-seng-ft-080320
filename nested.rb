@@ -85,6 +85,7 @@ programmer_hash.push {:yukihiro_matsumoto =>{
                         :known_for => "Ruby",
                         :languages => ["LISP","C"]
 }
+return programmer_hash
 end
 
 def changing_alan
